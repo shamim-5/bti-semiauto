@@ -1,7 +1,7 @@
 function App() {
   return (
-    <div>
-      <h1>hello world</h1>
+    <div data-theme="" className="text-5xl text-neutral cover-home1 ">
+      Hello world!
     </div>
   );
 }
