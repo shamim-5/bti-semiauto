@@ -21,6 +21,7 @@ html {
   background: linear-gradient(90deg, #0ea5ea, #0bd1d1 51%, #0ea5ea) var(--x, 0) / 200%;
 }
 
+
 /* pseudo element  */
 .cover-home1:after {
   background: url(./assets/shadow-left.svg) no-repeat 100% 100%;

@@ -8,23 +8,29 @@ export default {
     themes: [
       {
         dark: {
+          // text-color
           primary: "#94a9c9",
           secondary: "#1cc2e7",
-          // accent: "#37cdbe",
           neutral: "#b9e0f2",
+          // border-color
+          accent: "#222f43",
+          // card background
           card: "#131c31",
-          border: "#222f43",
+          // background
           "base-100": "#0f172a",
         },
       },
       {
         light: {
-          primary: "#66768f",
+          // text-color
+          primary: "#091E3E",
           secondary: "#1cc2e7",
-          // accent: "#37cdbe",
           neutral: "#344161",
+          // border-color
+          accent: "#c2d4ee",
+          // card background
           card: "#e8edf5",
-          border: "#c2d4ee",
+          // background
           "base-100": "#F9FBFF",
         },
       },
