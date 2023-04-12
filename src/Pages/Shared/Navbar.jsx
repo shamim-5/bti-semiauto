@@ -92,7 +92,7 @@ const Navbar = ({ toggleTheme }) => {
         </div>
         <Link to="/" className="btn btn-ghost normal-case text-xl hover:bg-transparent hover:text-secondary">
           <img className="w-32 bg-white hidden lg:flex" src={logo} alt="Logo" />
-          <h2 className="lg:hidden flex">Bio Trade International</h2>
+          <h2 className="lg:hidden flex">Bio-Trade International</h2>
         </Link>
       </div>
 

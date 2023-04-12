@@ -15,7 +15,7 @@ function App() {
   return (
     <div
       data-theme={theme}
-      className="cover-home1 h-screen scrollbar-thin  scrollbar-thumb-[#001529] scrollbar-track-slate-500"
+      className="cover-home h-screen"
     >
       <Navbar toggleTheme={toggleTheme} />
       <Routes>
